@@ -1,0 +1,19 @@
+body{
+text-align: center;
+background-color: rgb(240, 236, 245);
+}
+#nome{
+    background-color:rgb(183, 158, 215);
+    padding: 10px;
+    color: rgb(57, 45, 74);
+}
+#nome2{
+   color: rgb(57, 45, 74);
+}
+#nome3{
+ padding: 6px;
+
+}
+#menu{
+   gap: 15;
+}
